@@ -1,4 +1,5 @@
 //find the day on the date for 2016
+//An attempt to create my own algorithm for Doomsday, and to test myself
 #include <stdlib.h>
 #include <stdio.h>
 
